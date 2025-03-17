@@ -1,0 +1,5 @@
+Model1 Intel_i5 8 512 50000
+Model2 AMD_Ryzen_7 16 1000 70000
+Model3 Intel_i7 32 2000 100000
+Model4 AMD_Ryzen_5 8 512 45000
+Model5 Intel_i5 16 1000 60000
